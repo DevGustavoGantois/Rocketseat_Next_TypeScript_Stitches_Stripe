@@ -15,7 +15,7 @@
 <p>This project was developed with technologies</p>
 
 <ul>
-    <p>Next.JS</p>
+    <li>Next.JS</li>
     <li>TypeScript</li>
     <li>Stitches</li>
     <li>Stripe (Software | Payment platform)</li>
